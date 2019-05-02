@@ -1,0 +1,2 @@
+# WIMP-Strips
+Strips generated
